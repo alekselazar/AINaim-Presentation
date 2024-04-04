@@ -55,7 +55,7 @@ def augment_images(input_folder, output_folder):
 
 ### 2. DE-GAN for Document Enhancement
 
-DE-GAN intricately enhances scanned documents, meticulously restoring even the most minute details of Hebrew script, lost through degradation.
+DE-GAN intricately enhances scanned documents, meticulously restoring even the most minute details of Hebrew script, lost through degradation. More information about DE-GAN model [here](https://arxiv.org/pdf/2010.08764.pdf)
 
 #### Example DE_GAN code
 ```python
